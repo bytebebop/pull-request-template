@@ -2,7 +2,7 @@
 This template is a modification of the https://github.com/a0m0rajab author's template repository. You can find the original template here https://github.com/open-sauced/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md
 -->
 
-[**Note**: All messages containing this emoji 👉 should be deleted (including this message).]
+[**Note**: All messages containing this emoji 👉 should be deleted (including this message)]
 
 ## What type of PR is this? (check all applicable)
 
@@ -24,7 +24,9 @@ This template is a modification of the https://github.com/a0m0rajab author's tem
 
 ## Screenshots/Recordings
 
-<!-- Visual changes require screenshots -->
+[👉 Add a screenshot or recording where the added element(s) can be seen in the UI]
+
+- [ ] 🔍 The PR does not reflect a direct change in the UI
 
 ## Related Tickets
 
